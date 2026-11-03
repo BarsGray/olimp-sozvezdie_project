@@ -1,0 +1,15 @@
+{
+	"name":"Созвездие Олимпа",
+	"short_name":"Созвездие Олимпа",
+	"description":"Работаем по строгим стандартам группы компаний «Олимп Здоровья». Вы получаете тот же высокое качество диагностики и лечения, но по специальным ценам для жителей района.",
+	"start_url":"/?from=manifest",
+	"display":"standalone",
+	"background_color":"white",
+	"theme_color":"#aa2a36",
+	"orientation":"any",
+	"icons":[{
+        "src":"/wp-content/themes/constellation/img/favicon.png",
+        "sizes":"128x128",
+        "type":"image/png"
+    }]
+}
